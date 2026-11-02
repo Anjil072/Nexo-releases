@@ -1,1 +1,1 @@
-# nexo-releases
+# Nexo-releases
